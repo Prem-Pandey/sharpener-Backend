@@ -9,3 +9,4 @@ const arr = ['apple', 'oranges' , ' ', 'mango', ' ' , 'lemon'];
     }
 })
 console.log(newArr)
+
